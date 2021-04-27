@@ -11,5 +11,9 @@ class MainActivity : AppCompatActivity() {
         Log.e("TAG","Artem")
         Log.e("TAG","Androshchuk")
         Log.e("TAG","122-A")
+
+
+
+Log.e("TAG","Зміни_")
     }
 }

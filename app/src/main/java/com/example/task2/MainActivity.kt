@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
 
 
 Log.e("TAG","Зміни_")
+        Log.e("TAG","Змінено в IDE")
     }
 }

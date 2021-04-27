@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-
+Log.e("TAG","Зміни_")
     }
 }

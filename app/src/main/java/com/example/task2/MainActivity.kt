@@ -8,6 +8,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         // змінено з IDE
+        super.onCreate(savedInstanceState)
+        // змінено з браузеру
+        // конфлікт вирішено 28.04
         setContentView(R.layout.activity_main)
         Log.e("TAG","Artem")
         Log.e("TAG","Androshchuk")

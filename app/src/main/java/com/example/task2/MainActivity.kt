@@ -20,5 +20,7 @@ class MainActivity : AppCompatActivity() {
 
 Log.e("TAG","Зміни_")
         Log.e("TAG","Змінено в браузері")
+
+        Log.e("TAG","Зміни_")
     }
 }
